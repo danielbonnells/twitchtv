@@ -1,0 +1,80 @@
+body {
+  background-color: #003380;
+}
+.box {
+  background-color:  #333333;
+  padding: 20px;
+  margin-top: 20px;
+  margin-kleft: 20px;
+  color: white;
+  max-width: 360px;
+  border-radius:5px;
+  box-shadow: black 5px 5px 1px;
+  
+}
+
+.liveCircle {
+  position:absolute;
+  top:10px;
+  right:10px;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  background-color: red;
+  box-shadow: red 2px 2px 5px; 
+  font-size: .5em;
+  margin-left: 25px;
+  visibility: visible;
+  padding-left: 5px;
+  
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h3 {
+  margin-top: -10px;
+}
+
+.logos {
+  margin-top: -15px;
+  border: solid red 3px;
+  box-shadow: red 2px 2px 5px;
+  width: 50px;
+ 
+}
+
+#circle0{
+  visibility: visible;
+}
+#circle1{
+  visibility: visible;
+}
+#circle2{
+  visibility: visible;
+}
+#circle3{
+  visibility: visible;
+}
+#circle4{
+  visibility: visible;
+}
+#circle5{
+  visibility: visible;
+}
+
+#mycontainer {
+ mmargin-left:-20px;
+}
+
+.previews {
+  border: solid #0047b3 3px;
+}
+
+hr {
+  margin-bottom: -10px;
+}
